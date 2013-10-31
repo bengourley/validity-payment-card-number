@@ -1,6 +1,6 @@
 {
   "name": "validity-payment-card-number",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Validity style validator to validate payment card numbers with the luhn algorithm",
   "main": "validator.js",
   "directories": {
