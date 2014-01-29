@@ -33,6 +33,6 @@
     "async": "~0.2.9"
   },
   "dependencies": {
-    "luhn": "~1.0.5"
+    "luhn": "git://github.com/bengourley/node-luhn"
   }
 }
